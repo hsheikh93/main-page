@@ -1,0 +1,11 @@
+.link {
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+
+.link > button {
+  width: 100%;
+}
