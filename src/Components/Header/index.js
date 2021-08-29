@@ -46,7 +46,7 @@ const Header = () => {
           indicator: classes.indicator,
         }}
       >
-        <LinkedTab link={"/home"} label={"Home"} icon={<HomeIcon />} />
+        <LinkedTab link={"/main-page"} label={"Home"} icon={<HomeIcon />} />
         <LinkedTab
           link={"/resume"}
           label={"Resume"}

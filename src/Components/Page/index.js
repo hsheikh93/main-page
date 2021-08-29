@@ -20,7 +20,7 @@ const Page = () => {
     <Paper square className={classes.root}>
       <Divider variant="middle" />
       <Switch>
-        <Route path="/home">
+        <Route path="/main-page">
           <Home />
         </Route>
         <Route path="/resume">
